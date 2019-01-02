@@ -7,12 +7,14 @@ Cloned from [this brilliant idea by Jaap Meijers](https://www.instructables.com/
 You can ignore older entries by adding `#` at the start of the line. This shortens render time dramatically. You *must* uncomment all lines with the same time if you use this. For instance, if you add a new entry at 18:00, make sure to uncomment all 18:00 entries, or it will replace an older image.
 
 For my future self who doesn’t want to find the regular expression again: 
-s: `\n([^#])`
-r: `\n#$1`
 
-Removing all comments
-s: `\n[#]`
-r: `\n`
+- s: `\n([^#])`
+- r: `\n#$1`
+
+Removing all comments: 
+
+- s: `\n[#]`
+- r: `\n`
 
 Cleaning up the existing entries means that I made quite a few of them shorter, made sure all times are used (some entries have multiple times in them), and made better use of time stamps like *before eight*, or *around eleven*.
 
