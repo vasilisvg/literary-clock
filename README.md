@@ -16,6 +16,8 @@ Removing all comments:
 - s: `\n[#]`
 - r: `\n`
 
+## Cleaning up
+
 Cleaning up the existing entries means that I made quite a few of them shorter, made sure all times are used (some entries have multiple times in them), and made better use of time stamps like *before eight*, or *around eleven*.
 
 Will update as I keep on reading.
