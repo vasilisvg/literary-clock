@@ -47,3 +47,4 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Waar de wind waait|Nick Hunt
 - The secret language of color|Joann and Arielle Eckstut
 - Calm Technology|Amber Case
+- The Darkening Age|Catherine Nixey
