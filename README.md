@@ -28,6 +28,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 
 - Almost No Memory|Lydia Davis
 - Break it Down|Lydia Davis
+- Calm Technology|Amber Case
 - Creative Quest|Questlove
 - De zangbreker|Carolina Trujillo
 - Een zachte hand|Leïla Slimani
@@ -40,11 +41,10 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Kus|Julien Ignacio
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
+- The Darkening Age|Catherine Nixey
+- The secret language of color|Joann and Arielle Eckstut
 - The Shape of Design|Frank Chimero
 - Tsjaikovskistraat 40|Peter Waterdrinker
 - Van hier tot Tokio|Paul van Hooff
 - Varieties of Disturbance|Lydia Davis
 - Waar de wind waait|Nick Hunt
-- The secret language of color|Joann and Arielle Eckstut
-- Calm Technology|Amber Case
-- The Darkening Age|Catherine Nixey
