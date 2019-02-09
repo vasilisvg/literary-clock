@@ -31,6 +31,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Calm Technology|Amber Case
 - Creative Quest|Questlove
 - De zangbreker|Carolina Trujillo
+- De goede zoon|Rob van Essen
 - Een zachte hand|Leïla Slimani
 - Foon|Marente de Moor
 - Grand Hotel Europa|Ilja Leonard Pfeijffer
