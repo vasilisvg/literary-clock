@@ -41,6 +41,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - In alle steden|Aukelien Weverling
 - Kus|Julien Ignacio
 - Lepelsnijder|Marjolijn Hof
+- Lucius, of: de ezel|Lucianus
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
 - The Darkening Age|Catherine Nixey
