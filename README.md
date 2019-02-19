@@ -26,6 +26,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 
 ## Books I added
 
+- Adam|Wanda Reisel
 - Almost No Memory|Lydia Davis
 - Break it Down|Lydia Davis
 - Calm Technology|Amber Case
