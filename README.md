@@ -38,6 +38,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Grand Hotel Europa|Ilja Leonard Pfeijffer
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
+- Het pad van de gele slippers|Kader Abdolah
 - Icarië|Uwe Timm
 - In alle steden|Aukelien Weverling
 - Kus|Julien Ignacio
