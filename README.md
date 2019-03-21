@@ -33,9 +33,11 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Creative Quest|Questlove
 - De zangbreker|Carolina Trujillo
 - De goede zoon|Rob van Essen
+- Dead Lions|Mick Herron
 - Een zachte hand|Leïla Slimani
 - Foon|Marente de Moor
 - Grand Hotel Europa|Ilja Leonard Pfeijffer
+- Het huis van de moskee|Kader Abdolah
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het pad van de gele slippers|Kader Abdolah
