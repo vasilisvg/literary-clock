@@ -56,3 +56,6 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Van hier tot Tokio|Paul van Hooff
 - Varieties of Disturbance|Lydia Davis
 - Waar de wind waait|Nick Hunt
+- Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
+- Ο ήλιος του απογεύματος|Κωνσταντίνος Καβάφης
+- Πολιτικό ημερολόγιο|Γιώργος Σεφέρης
