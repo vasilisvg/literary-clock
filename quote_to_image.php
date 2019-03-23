@@ -162,6 +162,9 @@ function TurnQuoteIntoImage($time, $quote, $timestring, $title, $author) {
     $locs = 0;
     // Save the image with metadata
     while ( $locs < count($imgloc) ) {
+        if(!file_exists($imgloc[$locs])) {
+            mkdir($imgloc[$locs]);
+        }
         imagepng($png_image, $imgloc[$locs].'/quote_'.$time.'_'.$imagenumber.'_credits.png');
 
         // convert the image we made to greyscale
