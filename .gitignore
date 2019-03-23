@@ -8,4 +8,4 @@ litclock_test.csv
 quote_to_image-test.php
 images/test
 .vscode/settings.json
-images/metadata-n
+images/metadata-n/*.png
