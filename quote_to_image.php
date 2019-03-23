@@ -155,27 +155,33 @@ function TurnQuoteIntoImage($time, $quote, $timestring, $title, $author) {
         imagettftext($png_image, $creditFont_size, 0, $metadataX, $metadataY, $black, $creditFont, $dash . $credits);
 
     }
-
+    $imgloc = [
+        'images/metadata-n', 
+        'images/metadata'
+    ];
+    $locs = 0;
     // Save the image with metadata
-    imagepng($png_image, 'images/metadata/quote_'.$time.'_'.$imagenumber.'_credits.png');
+    while ( $locs < count($imgloc) ) {
+        imagepng($png_image, $imgloc[$locs].'/quote_'.$time.'_'.$imagenumber.'_credits.png');
 
+        // convert the image we made to greyscale
+        //$im = new Imagick();
+        //$im->readImage('images/quote_'.$time.'_'.$imagenumber.'.png');
+        //$im->setImageType(Imagick::IMGTYPE_GRAYSCALE);
+        //unlink('images/quote_'.$time.'_'.$imagenumber.'.png');
+        //$im->writeImage('images/quote_'.$time.'_'.$imagenumber.'.png');
+
+        // convert the image we made to greyscale 
+        $im = new Imagick();
+        $im->readImage($imgloc[$locs].'/quote_'.$time.'_'.$imagenumber.'_credits.png');
+        $im->setImageType(Imagick::IMGTYPE_GRAYSCALE);
+        unlink($imgloc[$locs].'/quote_'.$time.'_'.$imagenumber.'_credits.png');
+        $im->writeImage($imgloc[$locs].'/quote_'.$time.'_'.$imagenumber.'_credits.png');
+        $locs ++;
+    }
     // Free up memory
     imagedestroy($png_image);
-
-    // convert the image we made to greyscale
-    //$im = new Imagick();
-    //$im->readImage('images/quote_'.$time.'_'.$imagenumber.'.png');
-    //$im->setImageType(Imagick::IMGTYPE_GRAYSCALE);
-    //unlink('images/quote_'.$time.'_'.$imagenumber.'.png');
-    //$im->writeImage('images/quote_'.$time.'_'.$imagenumber.'.png');
-
-    // convert the image we made to greyscale 
-    $im = new Imagick();
-    $im->readImage('images/metadata/quote_'.$time.'_'.$imagenumber.'_credits.png');
-    $im->setImageType(Imagick::IMGTYPE_GRAYSCALE);
-    unlink('images/metadata/quote_'.$time.'_'.$imagenumber.'_credits.png');
-    $im->writeImage('images/metadata/quote_'.$time.'_'.$imagenumber.'_credits.png');
-
+    
 }
 
 
