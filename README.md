@@ -2,6 +2,8 @@
 
 Cloned from [this brilliant idea by Jaap Meijers](https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/). I removed the option of hiding the source and added optional italics. I also added a few, mostly Dutch books, and cleaned up the existing entries. 
 
+I use ` ‖ ` (non-breaking space, vertical double line, space) for line-endings in poetry.
+
 ## Ignoring older entries
 
 You can ignore older entries by adding `#` at the start of the line. This shortens render time dramatically. You *must* uncomment all lines with the same time if you use this. For instance, if you add a new entry at 18:00, make sure to uncomment all 18:00 entries, or it will replace an older image.
@@ -18,7 +20,7 @@ Removing all comments:
 
 ## Cleaning up
 
-Cleaning up the existing entries means that I made quite a few of them shorter, made sure all times are used (some entries have multiple times in them), and made better use of time stamps like *before eight*, or *around eleven*.
+Cleaning up the existing entries means that I  made quite a few of them shorter, made sure all times are used (some entries have multiple times in them), and made better use of time stamps like *before eight*, or *around eleven*.
 
 Will update as I keep on reading.
 
