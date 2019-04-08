@@ -49,6 +49,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Kus|Julien Ignacio
 - Lepelsnijder|Marjolijn Hof
 - Lucius, of: de ezel|Lucianus
+- Moord: een inleiding|Faye Kellerman
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
 - The Darkening Age|Catherine Nixey
@@ -60,6 +61,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Varieties of Disturbance|Lydia Davis
 - Waar de wind waait|Nick Hunt
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
+- Βάρδια|Νίκος Καβαδίας
 - Δώδεκα|Νίκος Καρβέλας & Φίλιππος Νικολάου
 - Ο ήλιος του απογεύματος|Κωνσταντίνος Καβάφης
 - Πολιτικό ημερολόγιο|Γιώργος Σεφέρης
