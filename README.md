@@ -45,6 +45,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het pad van de gele slippers|Kader Abdolah
 - Icarië|Uwe Timm
+- If Beale Street Could Talk|James Baldwin
 - In alle steden|Aukelien Weverling
 - Kus|Julien Ignacio
 - Lepelsnijder|Marjolijn Hof
@@ -63,6 +64,8 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
 - Βάρδια|Νίκος Καβαδίας
 - Δώδεκα|Νίκος Καρβέλας & Φίλιππος Νικολάου
+- Η Φάρσα|Έρση Σωτηροπούλου
 - Ο ήλιος του απογεύματος|Κωνσταντίνος Καβάφης
 - Πολιτικό ημερολόγιο|Γιώργος Σεφέρης
 - Το κιβώτιο|Άρης Αλεξάνδρου
+- Το τρίτο στεφάνι|Κώστας Ταχτσής
