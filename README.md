@@ -35,6 +35,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Creative Quest|Questlove
 - De zangbreker|Carolina Trujillo
 - De goede zoon|Rob van Essen
+- De wraak van Vondel|Frank van Pamelen
 - Dead Lions|Mick Herron
 - Een zachte hand|Leïla Slimani
 - Foon|Marente de Moor
