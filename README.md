@@ -49,6 +49,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - If Beale Street Could Talk|James Baldwin
 - In alle steden|Aukelien Weverling
 - Kus|Julien Ignacio
+- Lanny|Max Porter
 - Lepelsnijder|Marjolijn Hof
 - Lucius, of: de ezel|Lucianus
 - Moord: een inleiding|Faye Kellerman
