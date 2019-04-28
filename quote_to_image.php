@@ -22,7 +22,7 @@ $creditFont = "LinLibertine_RZI.otf";
 // and create unique images for them, one without and one with title and author
 $row = 1;
 if (($handle = fopen("litclock_annotated.csv", "r")) !== FALSE) {
-    while (($data = fgetcsv($handle, 1000, "|")) !== FALSE) {
+    while (($data = fgetcsv($handle, 2000, "|")) !== FALSE) {
         $num = count($data);
         $row++;
         $time = $data[0];
