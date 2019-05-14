@@ -61,6 +61,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - The Shape of Design|Frank Chimero
 - Tsjaikovskistraat 40|Peter Waterdrinker
 - Uit de maat|William M. Kelley
+- Vallen is als vliegen|Manon Uphoff
 - Van hier tot Tokio|Paul van Hooff
 - Varieties of Disturbance|Lydia Davis
 - Waar de wind waait|Nick Hunt
