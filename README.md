@@ -41,6 +41,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Foon|Marente de Moor
 - Grand Hotel Europa|Ilja Leonard Pfeijffer
 - Helden|Stephen Fry
+- Het beroep van mijn vader|Sorj Chalandon
 - Het huis van de moskee|Kader Abdolah
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
