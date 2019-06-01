@@ -75,3 +75,9 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Πολιτικό ημερολόγιο|Γιώργος Σεφέρης
 - Το κιβώτιο|Άρης Αλεξάνδρου
 - Το τρίτο στεφάνι|Κώστας Ταχτσής
+
+## Licence
+
+This work is completely based on a work that’s licenced under the [https://creativecommons.org/licenses/by-nc-sa/4.0/](Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) Licence). 
+
+This means that this repository is licenced under the [https://creativecommons.org/licenses/by-nc-sa/4.0/](Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) Licence) as well.
