@@ -15,7 +15,7 @@ For my future self who doesn’t want to find the regular expression again:
 
 Removing all comments: 
 
-- s: `\n[#]`
+- s: `\n[#][^#]`
 - r: `\n`
 
 ## Cleaning up
@@ -38,6 +38,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - De wraak van Vondel|Frank van Pamelen
 - Dead Lions|Mick Herron
 - Een zachte hand|Leïla Slimani
+- Elektriciteit|Rob van Essen
 - Foon|Marente de Moor
 - Grand Hotel Europa|Ilja Leonard Pfeijffer
 - Helden|Stephen Fry
