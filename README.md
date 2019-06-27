@@ -47,6 +47,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het pad van de gele slippers|Kader Abdolah
+- Hier wonen ook mensen|Rob van Essen
 - Honderd jaar eenzaamheid|Gabriel García Márquez
 - Icarië|Uwe Timm
 - If Beale Street Could Talk|James Baldwin
