@@ -48,6 +48,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het pad van de gele slippers|Kader Abdolah
 - Hier wonen ook mensen|Rob van Essen
+- Homegoing|Yaa Gyasi
 - Honderd jaar eenzaamheid|Gabriel García Márquez
 - Icarië|Uwe Timm
 - If Beale Street Could Talk|James Baldwin
@@ -55,11 +56,14 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Kus|Julien Ignacio
 - Lanny|Max Porter
 - Lepelsnijder|Marjolijn Hof
+- Love in the time of cholera|Gabriel García Márquez
 - Lucius, of: de ezel|Lucianus
 - Moord: een inleiding|Faye Kellerman
+- Nachttrein naar Lissabon|Pascal Mercier
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
 - The Darkening Age|Catherine Nixey
+- The Old Man and the Sea|Ernest Hemingway
 - The secret language of color|Joann and Arielle Eckstut
 - The Sectret Lives of Baba Segi’s Wives|Lola Shoneyin
 - The Shape of Design|Frank Chimero
