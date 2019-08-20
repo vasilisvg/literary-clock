@@ -32,6 +32,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Almost No Memory|Lydia Davis
 - Break it Down|Lydia Davis
 - Calm Technology|Amber Case
+- Circe|Madeline Miller
 - Creative Quest|Questlove
 - De zangbreker|Carolina Trujillo
 - De goede zoon|Rob van Essen
@@ -47,6 +48,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het pad van de gele slippers|Kader Abdolah
+- Het vogelhuis|Eva Meijer
 - Hier wonen ook mensen|Rob van Essen
 - Homegoing|Yaa Gyasi
 - Honderd jaar eenzaamheid|Gabriel García Márquez
