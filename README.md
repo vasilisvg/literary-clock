@@ -30,6 +30,8 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 
 - Adam|Wanda Reisel
 - Almost No Memory|Lydia Davis
+- Arthur, de koning van eens en ooit|T.H. White
+- Brave New World |Aldous Huxley
 - Break it Down|Lydia Davis
 - Calm Technology|Amber Case
 - Circe|Madeline Miller
@@ -53,11 +55,13 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Homegoing|Yaa Gyasi
 - Honderd jaar eenzaamheid|Gabriel García Márquez
 - Icarië|Uwe Timm
+- I Know Why The Caged Bird Sings|Maya Angelou
 - If Beale Street Could Talk|James Baldwin
 - In alle steden|Aukelien Weverling
 - Kus|Julien Ignacio
 - Lanny|Max Porter
 - Lepelsnijder|Marjolijn Hof
+- Less|Andrew Sean Greer
 - Love in the time of cholera|Gabriel García Márquez
 - Lucius, of: de ezel|Lucianus
 - Moord: een inleiding|Faye Kellerman
@@ -65,6 +69,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
 - The Darkening Age|Catherine Nixey
+- The God of Small Things |Arundhati Roy
 - The Old Man and the Sea|Ernest Hemingway
 - The secret language of color|Joann and Arielle Eckstut
 - The Sectret Lives of Baba Segi’s Wives|Lola Shoneyin
@@ -75,6 +80,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Van hier tot Tokio|Paul van Hooff
 - Varieties of Disturbance|Lydia Davis
 - Waar de wind waait|Nick Hunt
+- We Have Always Lived in the Castle|Shirley Jackson
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
 - Βάρδια|Νίκος Καβαδίας
 - Δώδεκα|Νίκος Καρβέλας & Φίλιππος Νικολάου
