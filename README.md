@@ -15,8 +15,8 @@ For my future self who doesn’t want to find the regular expression again:
 
 Removing all comments: 
 
-- s: `\n[#][^#]`
-- r: `\n`
+- s: `\n[#]([^#])`
+- r: `\n$1`
 
 ## Cleaning up
 
