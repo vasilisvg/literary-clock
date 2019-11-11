@@ -31,6 +31,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Adam|Wanda Reisel
 - Almost No Memory|Lydia Davis
 - Arthur, de koning van eens en ooit|T.H. White
+- Bloedwonder|Barry Smit
 - Brave New World |Aldous Huxley
 - Break it Down|Lydia Davis
 - Calm Technology|Amber Case
@@ -79,6 +80,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Vallen is als vliegen|Manon Uphoff
 - Van hier tot Tokio|Paul van Hooff
 - Varieties of Disturbance|Lydia Davis
+- Vertedering|Jamal Ouariachi
 - Waar de wind waait|Nick Hunt
 - We Have Always Lived in the Castle|Shirley Jackson
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
