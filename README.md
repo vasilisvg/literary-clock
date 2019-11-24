@@ -68,6 +68,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Lucius, of: de ezel|Lucianus
 - Moord: een inleiding|Faye Kellerman
 - Nachttrein naar Lissabon|Pascal Mercier
+- Paarse hibiscus|Chimamanda Ngozi Adichie
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
 - The Darkening Age|Catherine Nixey
