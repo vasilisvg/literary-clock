@@ -39,6 +39,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Creative Quest|Questlove
 - De zangbreker|Carolina Trujillo
 - De goede zoon|Rob van Essen
+- De terugkeer van Lupe García|Carolina Trujillo
 - De wraak van Vondel|Frank van Pamelen
 - Dead Lions|Mick Herron
 - Een zachte hand|Leïla Slimani
@@ -51,8 +52,10 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het pad van de gele slippers|Kader Abdolah
+- Het perenveld|Nana Ekvtimisjvili
 - Het vogelhuis|Eva Meijer
 - Hier wonen ook mensen|Rob van Essen
+- Hogere natuurkunde|Ellen Deckwitz
 - Homegoing|Yaa Gyasi
 - Honderd jaar eenzaamheid|Gabriel García Márquez
 - Icarië|Uwe Timm
