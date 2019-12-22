@@ -143,7 +143,7 @@ while($i < (count($listQuotes)-1)) {
 	$byVasilis += count($matches[0]);
 }
 $totalTimes = (count(file('litclock_annotated.csv'))-3);
-$prct = round($byVasilis/$totalTimes*100);
+$prct = round($byVasilis/$totalTimes*100,2);
 //echo($totalTimes);
 echo "$byVasilis of $totalTimes quotes were added by Vasilis (which is about $prct%)";
 
