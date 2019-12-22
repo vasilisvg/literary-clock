@@ -28,6 +28,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 
 ## Books I added
 
+- A History of Pictures|David Hockney & Martin Gayford
 - Adam|Wanda Reisel
 - Almost No Memory|Lydia Davis
 - Arthur, de koning van eens en ooit|T.H. White
