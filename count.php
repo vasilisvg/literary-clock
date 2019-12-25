@@ -22,7 +22,7 @@ ul:nth-last-of-type(1n + 15)::before {
 	content: "0" counter(hours);
 }
 ul:nth-of-type(2n) {
-	background: hsla(0,0%,60%,.3);
+	//background: hsla(0,0%,60%,.3);
 }
 li {
 	padding: .125em 0;
@@ -57,8 +57,38 @@ label {
 [id="showhide"]:not(:checked) ~ ul li:nth-of-type(2n + 1) {
 	background: hsla(0,0%,60%,.3);
 }
-[id="showhide"]:not(:checked) ~ ul li:not(.empty) {
-	background: hsla(90,100%,60%,.3);
+[data-howmany] {
+	background: hsla(90,100%,60%,1) !important;
+}
+[data-howmany="00"] {
+	background: hsla(90,0%,60%,.0) !important;
+}
+[data-howmany="01"] {
+	background: hsla(90,10%,60%,.1) !important;
+}
+[data-howmany="02"] {
+	background: hsla(90,20%,60%,.2) !important;
+}
+[data-howmany="03"] {
+	background: hsla(90,30%,60%,.3) !important;
+}
+[data-howmany="04"] {
+	background: hsla(90,40%,60%,.4) !important;
+}
+[data-howmany="05"] {
+	background: hsla(90,50%,60%,.5) !important;
+}
+[data-howmany="06"] {
+	background: hsla(90,60%,60%,.6) !important;
+}
+[data-howmany="07"] {
+	background: hsla(90,70%,60%,.7) !important;
+}
+[data-howmany="08"] {
+	background: hsla(90,80%,60%,.8) !important;
+}
+[data-howmany="09"] {
+	background: hsla(90,90%,60%,.9) !important;
 }
 ol {
 	margin: 0 0 0 2em;
@@ -78,6 +108,10 @@ $timse = file_get_contents('litclock_annotated.csv');
 $i = 0;
 $k = 0;
 $filled = [];
+$total = [];
+
+preg_match_all('/\#[0-9]{2}:01\|/',$timse, $matches);
+echo count($matches[0]);
 
 while ($i < 24) {
 	if ($i < 10) {
@@ -89,17 +123,25 @@ while ($i < 24) {
 		if ($j < 10) {
 			$j = '0'.$j;
 		}
+		if($i == '00') {
+			$total[$j] = 0;
+		}
 		if($i == "00") {
 			$filled[$j] = 0;
 		}
 		preg_match_all('/\#'.$i.':'.$j.'\|/',$timse, $matches);
-		
+		//echo $matches[0];
+		$howMany = floor(count($matches[0])/2);
+		if($howMany < 10) {
+			$howMany = "0" . $howMany;
+		}
 		if(count($matches[0]) == 0){
-			echo '<li class="empty"><span>'.$i.'</span><span>:</span><span>'.$j.'</span></li>';
+			echo '<li class="empty"><span>'.$i.'</span><span>:</span><span>'.$j.'</span></li>'."\n";
 		}
 		else {
-			echo '<li><span>'.$i.'</span><span>:</span><span>'.$j.'</span></li>';
+			echo '<li data-howmany="'.$howMany.'"><span>'.$i.'</span><span>:</span><span>'.$j.'</span></li>'."\n";
 			$filled[$j]++;
+			$total[$j] += count($matches[0]);
 			$k++;
 		}
 		$j++;
@@ -107,8 +149,7 @@ while ($i < 24) {
 	echo '</ul>';
 	$i++;
 }
-echo '<p>Total unique timestamps: '. $k . '</p>';
-
+echo '<p>Total unique timestamps: '. $k . '</p>'."\n";
 $m = 0;
 $em = 0;
 echo '<ol>';
@@ -117,17 +158,23 @@ while($m < 60) {
 		$m = '0'.$m;
 	}
 	$s = $o = $filled[$m] * 4;
-	if($o < 10) {
-		$o = "0.".$o;
+	$s = $o = $total[$m]/$total['00']*100;
+	$sat = round($o*2);
+	if($sat < 10) {
+		$sat = "0".$sat;
 	}
+	if($o > 99) {
+		$sat = 100;
+	}
+	echo '<li value="'.$m . '" style="width:'.($s*2).'vw;background: hsla(90,'.$sat.'%,80%,1)">' . $total[$m] . '</li>';
+	
 	if($filled[$m] == 24) {
-		echo '<li value="'.$m . '" style="width:'.$s.'vw;background: hsla(0,'.$s.'%,80%,.'.round($o * 1.4).')">' . $filled[$m] . '</li>';
-		$em++;
+			$em++;
 	}
 	$m++;
 }
-echo '</ol>';
-echo '<p>Minutes in every hour: '. $em . '</p>';
+echo '</ol>'."\n";
+//echo '<p>Minutes in every hour: '. $em . '</p>'."\n";
 
 $listQuotes = file_get_contents('README.md');
 $listQuotes = explode('## Books I added',$listQuotes);
