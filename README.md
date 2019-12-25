@@ -64,6 +64,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - If Beale Street Could Talk|James Baldwin
 - In alle steden|Aukelien Weverling
 - Kamers antikamers|Niña Weijers
+- Kom, roep het van de bergen|James Baldwin
 - Kus|Julien Ignacio
 - Lanny|Max Porter
 - Lepelsnijder|Marjolijn Hof
