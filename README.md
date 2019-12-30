@@ -35,6 +35,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Bloedwonder|Barry Smit
 - Brave New World |Aldous Huxley
 - Break it Down|Lydia Davis
+- Brief aan een meisje in Parijs|Julio Cortázar
 - Calm Technology|Amber Case
 - Circe|Madeline Miller
 - Creative Quest|Questlove
@@ -50,6 +51,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Helden|Stephen Fry
 - Het beroep van mijn vader|Sorj Chalandon
 - Het huis van de moskee|Kader Abdolah
+- Het internet is stuk|Marleen Stikker
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het pad van de gele slippers|Kader Abdolah
