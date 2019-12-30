@@ -92,9 +92,9 @@ while ($i < 24) {
 		if($i == "00") {
 			$empty[$j] = 0;
 		}
-		preg_match_all('/\#'.$i.':'.$j.'\|/',$timse, $matches);
+		$nnum = substr_count($timse,'#'.$i.':'.$j.'|');
 		
-		if(count($matches[0]) == 0){
+		if($nnum == 0){
 			echo '<li><span>'.$i.'</span><span>:</span><span>'.$j.'</span></li>';
 			$empty[$j]++;
 			$k++;
