@@ -129,19 +129,19 @@ while ($i < 24) {
 		if($i == "00") {
 			$filled[$j] = 0;
 		}
-		preg_match_all('/\#'.$i.':'.$j.'\|/',$timse, $matches);
+		$nnum = substr_count($timse,'#'.$i.':'.$j.'|');
 		//echo $matches[0];
-		$howMany = floor(count($matches[0])/2);
+		$howMany = floor($nnum/2);
 		if($howMany < 10) {
 			$howMany = "0" . $howMany;
 		}
-		if(count($matches[0]) == 0){
+		if($nnum == 0){
 			echo '<li class="empty"><span>'.$i.'</span><span>:</span><span>'.$j.'</span></li>'."\n";
 		}
 		else {
 			echo '<li data-howmany="'.$howMany.'"><span>'.$i.'</span><span>:</span><span>'.$j.'</span></li>'."\n";
 			$filled[$j]++;
-			$total[$j] += count($matches[0]);
+			$total[$j] += $nnum;
 			$k++;
 		}
 		$j++;
@@ -186,8 +186,8 @@ $byVasilis = 0;
 while($i < (count($listQuotes)-1)) {
 	//echo $listQuotes[$i];
 	$i++;
-	preg_match_all('/'.trim(str_replace('|','\|',$listQuotes[$i])).'/',$timse, $matches);
-	$byVasilis += count($matches[0]);
+	$nnum = substr_count($timse,trim($listQuotes[$i]));
+	$byVasilis += $nnum;
 }
 $totalTimes = (count(file('litclock_annotated.csv'))-3);
 $prct = round($byVasilis/$totalTimes*100,2);
