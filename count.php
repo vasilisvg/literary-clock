@@ -58,37 +58,37 @@ label {
 	background: hsla(0,0%,60%,.3);
 }
 [data-howmany] {
-	background: hsla(90,100%,60%,1) !important;
+	background: hsla(135,100%,70%,1) !important;
+}
+[data-howmany^="0"] {
+	background: hsla(90,10%,60%,.1) !important;
 }
 [data-howmany="00"] {
 	background: hsla(90,0%,60%,.0) !important;
 }
-[data-howmany="01"] {
-	background: hsla(90,10%,60%,.1) !important;
+[data-howmany^="1"] {
+	background: hsla(135,20%,70%,.5) !important;
 }
-[data-howmany="02"] {
-	background: hsla(90,20%,60%,.2) !important;
+[data-howmany^="2"] {
+	background: hsla(180,30%,70%,.5) !important;
 }
-[data-howmany="03"] {
-	background: hsla(90,30%,60%,.3) !important;
+[data-howmany^="3"] {
+	background: hsla(225,40%,70%,.5) !important;
 }
-[data-howmany="04"] {
-	background: hsla(90,40%,60%,.4) !important;
+[data-howmany^="4"] {
+	background: hsla(270,50%,70%,.5) !important;
 }
-[data-howmany="05"] {
-	background: hsla(90,50%,60%,.5) !important;
+[data-howmany^="5"] {
+	background: hsla(315,60%,70%,.5) !important;
 }
-[data-howmany="06"] {
-	background: hsla(90,60%,60%,.6) !important;
+[data-howmany^="6"] {
+	background: hsla(0,70%,70%,.5) !important;
 }
-[data-howmany="07"] {
-	background: hsla(90,70%,60%,.7) !important;
+[data-howmany^="7"] {
+	background: hsla(45,80%,70%,.5) !important;
 }
-[data-howmany="08"] {
-	background: hsla(90,80%,60%,.8) !important;
-}
-[data-howmany="09"] {
-	background: hsla(90,90%,60%,.9) !important;
+[data-howmany^="9"] {
+	background: hsla(90,90%,70%,.5) !important;
 }
 ol {
 	margin: 0 0 0 2em;
@@ -131,7 +131,7 @@ while ($i < 24) {
 		}
 		$nnum = substr_count($timse,'#'.$i.':'.$j.'|');
 		//echo $matches[0];
-		$howMany = floor($nnum/2);
+		$howMany = floor($nnum);
 		if($howMany < 10) {
 			$howMany = "0" . $howMany;
 		}
@@ -150,6 +150,7 @@ while ($i < 24) {
 	$i++;
 }
 echo '<p>Total unique timestamps: '. $k . '</p>'."\n";
+
 $m = 0;
 $em = 0;
 echo '<ol>';
