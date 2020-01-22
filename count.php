@@ -195,5 +195,25 @@ $prct = round($byVasilis/$totalTimes*100,2);
 //echo($totalTimes);
 echo "$byVasilis of $totalTimes quotes were added by Vasilis (which is about $prct%)";
 
+$allQuotes = file('litclock_annotated.csv');
+$i = 3;
+$qUnique = [];
+$j = 0;
+while($i < count($allQuotes)) {
+	$qSecties = explode('|',$allQuotes[$i]);
+	$v = $qSecties[3] . '|' . $qSecties[3];
+	if( in_array($v,$qUnique) ) {
 
+	}
+	else {
+		$qUnique[$j] = $qSecties[3] . '|' . $qSecties[3];
+		$j++;
+	}
+	$i++;
+}
+
+$q = count($qUnique);
+$vas = count($listQuotes);
+$prct = round($vas/$q*100,2);
+echo "<p>There are $q unique books in the Literary clock. $vas were added by Vasilis, which is $prct%</p>";
 ?>
