@@ -75,8 +75,10 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Less|Andrew Sean Greer
 - Love in the time of cholera|Gabriel García Márquez
 - Lucius, of: de ezel|Lucianus
+- Mijn konijn van vaderskant|Etgar Keret
 - Moord: een inleiding|Faye Kellerman
 - Nachttrein naar Lissabon|Pascal Mercier
+- Op de rok van het universum|Tonnus Oosterhoff
 - Paarse hibiscus|Chimamanda Ngozi Adichie
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
@@ -88,6 +90,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - The Shape of Design|Frank Chimero
 - Tsjaikovskistraat 40|Peter Waterdrinker
 - Uit de maat|William M. Kelley
+- Underdog|Elfie Tromp
 - Vallen is als vliegen|Manon Uphoff
 - Van hier tot Tokio|Paul van Hooff
 - Varieties of Disturbance|Lydia Davis
