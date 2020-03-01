@@ -223,11 +223,19 @@ echo "<p>There are $q unique books in the Literary clock. $vas were added by Vas
 
 $i = 0;
 sort($qUnique);
-$timse = file_get_contents('litclock_annotated.csv');
 while( $i < count($qUnique) ) {
 	$nn = substr_count($timse, trim($qUnique[$i]));
 	echo "<div class='timess' style='width: " . $nn . "ch'>$qUnique[$i] ($nn)</div>";
 	$i++;
 }
+
+/* $i = 0;
+sort($qUnique);
+while( $i < count($qUnique) ) {
+	$qUnique[$i] = preg_replace('/^The /i','',$qUnique[$i]);
+	$i++;
+}
+$duplicates = array_unique( array_diff_assoc( $qUnique, array_unique( $qUnique ) ) );
+print_r($duplicates); */
 
 ?>
