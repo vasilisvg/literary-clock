@@ -97,6 +97,10 @@ ol {
 ol li {
 	margin: 0;
 }
+.timess {
+	background: yellow;
+	white-space: nowrap;
+}
 </style>
 <input type="checkbox" name="" id="showhide">
 <nav>
@@ -201,12 +205,12 @@ $qUnique = [];
 $j = 0;
 while($i < count($allQuotes)) {
 	$qSecties = explode('|',$allQuotes[$i]);
-	$v = $qSecties[3] . '|' . $qSecties[3];
+	$v = $qSecties[3] . '|' . $qSecties[4];
 	if( in_array($v,$qUnique) ) {
 
 	}
 	else {
-		$qUnique[$j] = $qSecties[3] . '|' . $qSecties[3];
+		$qUnique[$j] = $qSecties[3] . '|' . $qSecties[4];
 		$j++;
 	}
 	$i++;
@@ -216,4 +220,14 @@ $q = count($qUnique);
 $vas = count($listQuotes);
 $prct = round($vas/$q*100,2);
 echo "<p>There are $q unique books in the Literary clock. $vas were added by Vasilis, which is $prct%</p>";
+
+$i = 0;
+sort($qUnique);
+$timse = file_get_contents('litclock_annotated.csv');
+while( $i < count($qUnique) ) {
+	$nn = substr_count($timse, trim($qUnique[$i]));
+	echo "<div class='timess' style='width: " . $nn . "ch'>$qUnique[$i] ($nn)</div>";
+	$i++;
+}
+
 ?>
