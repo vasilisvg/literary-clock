@@ -41,6 +41,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Creative Quest|Questlove
 - De zangbreker|Carolina Trujillo
 - De goede zoon|Rob van Essen
+- De meester en Margarita|Michaïl Boelgakov
 - De Mierenmoordenaar|Julio Cortázar
 - De terugkeer van Lupe García|Carolina Trujillo
 - De wereld van gisteren|Stefan Zweig
@@ -97,6 +98,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Vertedering|Jamal Ouariachi
 - Waar de wind waait|Nick Hunt
 - We Have Always Lived in the Castle|Shirley Jackson
+- Willem Sandberg, portret van een kunstenaar|Ank Leeuw-Marcar
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
 - Βάρδια|Νίκος Καβαδίας
 - Δώδεκα|Νίκος Καρβέλας & Φίλιππος Νικολάου
