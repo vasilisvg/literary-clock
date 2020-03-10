@@ -107,7 +107,9 @@ while ($i < 24) {
 	echo '</ul>';
 	$i++;
 }
-echo '<p>Total timestamps missing: '. $k . '</p>';
+$prct = (100/1440)*$k;
+$prctTotal = (100 - $prct);
+echo '<p>Total timestamps missing: '. $k . ' (So we’re ' . round($prctTotal,2) . '% complete)</p>';
 
 $m = 0;
 $em = 0;
@@ -127,6 +129,12 @@ while($m < 60) {
 	$m++;
 }
 echo '</ol>';
-echo '<p>Total incomplete minutes: '. $em . '</p>';
+
+$prct = (100/60) * $em;
+$prctTotal = (100 - $prct);
+
+echo '<p>Total incomplete minutes: '. $em . '. (So we’re ' . round($prctTotal,2) . '% complete)</p>';
+
+
 
 ?>
