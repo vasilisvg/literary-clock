@@ -76,8 +76,10 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Less|Andrew Sean Greer
 - Love in the time of cholera|Gabriel García Márquez
 - Lucius, of: de ezel|Lucianus
+- Mens/onmens|Bas Heijne
 - Mijn konijn van vaderskant|Etgar Keret
 - Moord: een inleiding|Faye Kellerman
+- Moskou op sterk water|Venedikt Erofeev
 - Nachttrein naar Lissabon|Pascal Mercier
 - Op de rok van het universum|Tonnus Oosterhoff
 - Paarse hibiscus|Chimamanda Ngozi Adichie
