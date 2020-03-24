@@ -43,6 +43,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - De goede zoon|Rob van Essen
 - De meester en Margarita|Michaïl Boelgakov
 - De Mierenmoordenaar|Julio Cortázar
+- De rook die dondert|Namwali Serpeli
 - De terugkeer van Lupe García|Carolina Trujillo
 - De wereld van gisteren|Stefan Zweig
 - De wraak van Vondel|Frank van Pamelen
@@ -64,6 +65,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Hogere natuurkunde|Ellen Deckwitz
 - Homegoing|Yaa Gyasi
 - Honderd jaar eenzaamheid|Gabriel García Márquez
+- How to Win Friends and Influence People|Dale Carnegie
 - Icarië|Uwe Timm
 - I Know Why The Caged Bird Sings|Maya Angelou
 - If Beale Street Could Talk|James Baldwin
@@ -81,6 +83,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Moord: een inleiding|Faye Kellerman
 - Moskou op sterk water|Venedikt Erofeev
 - Nachttrein naar Lissabon|Pascal Mercier
+- Nouveau Fuck|Stella Bergsma
 - Op de rok van het universum|Tonnus Oosterhoff
 - Paarse hibiscus|Chimamanda Ngozi Adichie
 - Samuel Johnson is Indignant|Lydia Davis
