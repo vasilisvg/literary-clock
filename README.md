@@ -89,6 +89,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
 - Socrates op sneakers|Elke Wiss
+- The Best Of|Delphine Lecompte
 - The Darkening Age|Catherine Nixey
 - The God of Small Things |Arundhati Roy
 - The Old Man and the Sea|Ernest Hemingway
