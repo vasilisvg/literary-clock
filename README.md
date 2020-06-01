@@ -32,6 +32,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Adam|Wanda Reisel
 - Almost No Memory|Lydia Davis
 - Arthur, de koning van eens en ooit|T.H. White
+- Atletiek van snijbloemen|Koenraad Goudeseune
 - Bloedwonder|Barry Smit
 - Brave New World |Aldous Huxley
 - Break it Down|Lydia Davis
@@ -59,6 +60,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het internet is stuk|Marleen Stikker
 - Het Land|Aukelien Weverling
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
+- Het nut van nutteloos onderzoek|Robbert Dijkgraaf
 - Het pad van de gele slippers|Kader Abdolah
 - Het perenveld|Nana Ekvtimisjvili
 - Het vogelhuis|Eva Meijer
