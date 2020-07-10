@@ -55,6 +55,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Foon|Marente de Moor
 - Grand Hotel Europa|Ilja Leonard Pfeijffer
 - habitus|Radna Fabias
+- Hamnet|Maggie O’Farrell
 - Helden|Stephen Fry
 - Het beroep van mijn vader|Sorj Chalandon
 - Het huis van de moskee|Kader Abdolah
