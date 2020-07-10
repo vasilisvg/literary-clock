@@ -110,6 +110,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Vertedering|Jamal Ouariachi
 - Waar de wind waait|Nick Hunt
 - We Have Always Lived in the Castle|Shirley Jackson
+- Wij slaven van Suriname|Anton de Kom
 - Willem Sandberg, portret van een kunstenaar|Ank Leeuw-Marcar
 - Wittgensteins minnares|David Markson
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
