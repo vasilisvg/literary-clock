@@ -40,7 +40,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Calm Technology|Amber Case
 - Circe|Madeline Miller
 - Creative Quest|Questlove
-- De zangbreker|Carolina Trujillo
+- De dag dat ik mijn naam veranderde|Bibi Dumon Tak
 - De goede zoon|Rob van Essen
 - De meester en Margarita|Michaïl Boelgakov
 - De Mierenmoordenaar|Julio Cortázar
@@ -48,6 +48,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - De terugkeer van Lupe García|Carolina Trujillo
 - De wereld van gisteren|Stefan Zweig
 - De wraak van Vondel|Frank van Pamelen
+- De zangbreker|Carolina Trujillo
 - Dead Lions|Mick Herron
 - Een zachte hand|Leïla Slimani
 - Elektriciteit|Rob van Essen
