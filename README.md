@@ -51,6 +51,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - De wraak van Vondel|Frank van Pamelen
 - De zangbreker|Carolina Trujillo
 - Dead Lions|Mick Herron
+- Een vrouw apart. En de stad|Vivian Cornick
 - Een zachte hand|Leïla Slimani
 - Elektriciteit|Rob van Essen
 - Foon|Marente de Moor
