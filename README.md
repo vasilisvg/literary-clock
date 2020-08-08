@@ -106,6 +106,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - The Shape of Design|Frank Chimero
 - Tsjaikovskistraat 40|Peter Waterdrinker
 - Uit de maat|William M. Kelley
+- Uit het leven van een hond|Sander Kollaard
 - Underdog|Elfie Tromp
 - Vallen is als vliegen|Manon Uphoff
 - Van hier tot Tokio|Paul van Hooff
