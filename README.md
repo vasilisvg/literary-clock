@@ -60,6 +60,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Hamnet|Maggie O’Farrell
 - Helden|Stephen Fry
 - Het beroep van mijn vader|Sorj Chalandon
+- Het Hollandse Huis|Ann Patchett
 - Het huis van de moskee|Kader Abdolah
 - Het internet is stuk|Marleen Stikker
 - Het Land|Aukelien Weverling
