@@ -103,6 +103,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - The Darkening Age|Catherine Nixey
 - The God of Small Things |Arundhati Roy
 - The Old Man and the Sea|Ernest Hemingway
+- The Periodic Table|Primo Levi
 - The secret language of color|Joann and Arielle Eckstut
 - The Sectret Lives of Baba Segi’s Wives|Lola Shoneyin
 - The Shape of Design|Frank Chimero
