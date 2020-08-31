@@ -43,6 +43,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - De dag dat ik mijn naam veranderde|Bibi Dumon Tak
 - De dood in haar handen|Ottessa Moshfegh
 - De goede zoon|Rob van Essen
+- De luiaards in de vruchtbare vallei|Albert Cossery
 - De meester en Margarita|Michaïl Boelgakov
 - De Mierenmoordenaar|Julio Cortázar
 - De rook die dondert|Namwali Serpeli
