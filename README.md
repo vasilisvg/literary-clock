@@ -48,6 +48,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - De Mierenmoordenaar|Julio Cortázar
 - De rook die dondert|Namwali Serpeli
 - De terugkeer van Lupe García|Carolina Trujillo
+- De verendief|Kirk Wallace Johnson
 - De wereld van gisteren|Stefan Zweig
 - De wraak van Vondel|Frank van Pamelen
 - De zangbreker|Carolina Trujillo
