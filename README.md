@@ -71,6 +71,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het pad van de gele slippers|Kader Abdolah
 - Het perenveld|Nana Ekvtimisjvili
 - Het vogelhuis|Eva Meijer
+- Herfst|Ali Smith
 - Hier wonen ook mensen|Rob van Essen
 - Hogere natuurkunde|Ellen Deckwitz
 - Homegoing|Yaa Gyasi
@@ -121,6 +122,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - We Have Always Lived in the Castle|Shirley Jackson
 - Wij slaven van Suriname|Anton de Kom
 - Willem Sandberg, portret van een kunstenaar|Ank Leeuw-Marcar
+- Winter|Ali Smith
 - Wittgensteins minnares|David Markson
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
 - Βάρδια|Νίκος Καβαδίας
