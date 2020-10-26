@@ -61,6 +61,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - habitus|Radna Fabias
 - Hamnet|Maggie O’Farrell
 - Helden|Stephen Fry
+- Herfst|Ali Smith
 - Het beroep van mijn vader|Sorj Chalandon
 - Het Hollandse Huis|Ann Patchett
 - Het huis van de moskee|Kader Abdolah
@@ -71,7 +72,6 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het pad van de gele slippers|Kader Abdolah
 - Het perenveld|Nana Ekvtimisjvili
 - Het vogelhuis|Eva Meijer
-- Herfst|Ali Smith
 - Hier wonen ook mensen|Rob van Essen
 - Hogere natuurkunde|Ellen Deckwitz
 - Homegoing|Yaa Gyasi
