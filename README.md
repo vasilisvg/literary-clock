@@ -46,6 +46,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - De luiaards in de vruchtbare vallei|Albert Cossery
 - De meester en Margarita|Michaïl Boelgakov
 - De Mierenmoordenaar|Julio Cortázar
+- De niet verhoorde gebeden van Jacob de Zoet|David Mitchell
 - De rook die dondert|Namwali Serpeli
 - De terugkeer van Lupe García|Carolina Trujillo
 - De verendief|Kirk Wallace Johnson
