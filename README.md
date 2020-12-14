@@ -92,6 +92,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Lucius, of: de ezel|Lucianus
 - Mens/onmens|Bas Heijne
 - Mijn konijn van vaderskant|Etgar Keret
+- Mijn lieve gunsteling|Marieke Lucas Rijneveld
 - Moord: een inleiding|Faye Kellerman
 - Moskou op sterk water|Venedikt Erofeev
 - Nachttrein naar Lissabon|Pascal Mercier
