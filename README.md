@@ -86,6 +86,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Kom, roep het van de bergen|James Baldwin
 - Kus|Julien Ignacio
 - Lanny|Max Porter
+- Lente|Ali Smith
 - Lepelsnijder|Marjolijn Hof
 - Less|Andrew Sean Greer
 - Love in the time of cholera|Gabriel García Márquez
