@@ -33,6 +33,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Almost No Memory|Lydia Davis
 - Arthur, de koning van eens en ooit|T.H. White
 - Atletiek van snijbloemen|Koenraad Goudeseune
+- Blast Integraal|Manu Larcenet
 - Bloedwonder|Barry Smit
 - Brave New World |Aldous Huxley
 - Break it Down|Lydia Davis
@@ -105,6 +106,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Samuel Johnson is Indignant|Lydia Davis
 - Simplicissimus|Johann Grimmelshausen
 - Socrates op sneakers|Elke Wiss
+- Spaans Rood|Milan Hulsing
 - The Best Of|Delphine Lecompte
 - The Darkening Age|Catherine Nixey
 - The God of Small Things |Arundhati Roy
