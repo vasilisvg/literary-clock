@@ -129,6 +129,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Willem Sandberg, portret van een kunstenaar|Ank Leeuw-Marcar
 - Winter|Ali Smith
 - Wittgensteins minnares|David Markson
+- Zomer|Ali Smith
 - Απ᾽ τες εννιά|Κωνσταντίνος Καβάφης
 - Βάρδια|Νίκος Καβαδίας
 - Δώδεκα|Νίκος Καρβέλας & Φίλιππος Νικολάου
