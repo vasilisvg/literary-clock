@@ -126,6 +126,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Waar de wind waait|Nick Hunt
 - We Have Always Lived in the Castle|Shirley Jackson
 - Wij slaven van Suriname|Anton de Kom
+- Wildevrouw|Jeroen Olyslaegers
 - Willem Sandberg, portret van een kunstenaar|Ank Leeuw-Marcar
 - Winter|Ali Smith
 - Wittgensteins minnares|David Markson
