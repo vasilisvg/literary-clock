@@ -72,6 +72,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Het mooiste verhaal over mijn familie|Nelleke Zandwijk
 - Het nut van nutteloos onderzoek|Robbert Dijkgraaf
 - Het pad van de gele slippers|Kader Abdolah
+- Het Perenlied|Joost Oomen
 - Het perenveld|Nana Ekvtimisjvili
 - Het vogelhuis|Eva Meijer
 - Hier wonen ook mensen|Rob van Essen
