@@ -117,6 +117,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - The secret language of color|Joann and Arielle Eckstut
 - The Sectret Lives of Baba Segi’s Wives|Lola Shoneyin
 - The Shape of Design|Frank Chimero
+- Transit|Rachel Cusk
 - Tsjaikovskistraat 40|Peter Waterdrinker
 - Uit de maat|William M. Kelley
 - Uit het leven van een hond|Sander Kollaard
