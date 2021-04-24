@@ -33,6 +33,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Almost No Memory|Lydia Davis
 - Arthur, de koning van eens en ooit|T.H. White
 - Atletiek van snijbloemen|Koenraad Goudeseune
+- Beschermvrouwe van de verschoppelingen|Delphine Lecompte
 - Blast Integraal|Manu Larcenet
 - Bloedwonder|Barry Smit
 - Brave New World |Aldous Huxley
@@ -44,6 +45,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Creative Quest|Questlove
 - De dag dat ik mijn naam veranderde|Bibi Dumon Tak
 - De dood in haar handen|Ottessa Moshfegh
+- De eik was hier|Bibi Dumon Tak
 - De goede zoon|Rob van Essen
 - De luiaards in de vruchtbare vallei|Albert Cossery
 - De meester en Margarita|Michaïl Boelgakov
