@@ -133,6 +133,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - We Have Always Lived in the Castle|Shirley Jackson
 - Wij slaven van Suriname|Anton de Kom
 - Wildevrouw|Jeroen Olyslaegers
+- Willem die Madoc maakte|Nico Dros
 - Willem Sandberg, portret van een kunstenaar|Ank Leeuw-Marcar
 - Winter|Ali Smith
 - Wittgensteins minnares|David Markson
