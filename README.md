@@ -90,6 +90,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Kamers antikamers|Niña Weijers
 - Kom, roep het van de bergen|James Baldwin
 - Kommunalka Child|Nanda Milbreta
+- Kraaien in het paradijs|Ellen de Bruin
 - Kudos|Rachel Cusk
 - Kus|Julien Ignacio
 - Lanny|Max Porter
