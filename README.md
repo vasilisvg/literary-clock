@@ -41,6 +41,7 @@ You will need the [Libertine Fonts](http://libertine-fonts.org/show-me/).
 - Brief aan een meisje in Parijs|Julio Cortázar
 - Calm Technology|Amber Case
 - Circe|Madeline Miller
+- Cliënt E. Busken|Jeroen Brouwers
 - Contouren|Rachel Cusk
 - Creative Quest|Questlove
 - De dag dat ik mijn naam veranderde|Bibi Dumon Tak
